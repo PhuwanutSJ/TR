@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ระบบรายงานผลการตรวจสอบหม้อแปลงไฟฟ้า",
+  "description": "ระบบสำหรับกรอกข้อมูลการตรวจสอบหม้อแปลงไฟฟ้าและบันทึกข้อมูลไปยัง Google Sheets พร้อมอัปโหลดรูปภาพไปยัง Google Drive",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
